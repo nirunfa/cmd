@@ -1,4 +1,4 @@
-module github.com/revel/cmd
+module github.com/nirunfa/cmd
 
 go 1.17
 
